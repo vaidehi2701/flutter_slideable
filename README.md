@@ -1,16 +1,9 @@
 # flutter_slideable
 
-A new Flutter application.
+Gmail like feature; slideable in listtil for options like edit,delete.
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/55477266/69329379-fee02c80-0c76-11ea-97c7-b15b3db1e993.png" width="350" height="650">
+<img src="https://user-images.githubusercontent.com/55477266/69329380-fee02c80-0c76-11ea-8ca6-f854e68b34e6.png" width="350" height="650">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

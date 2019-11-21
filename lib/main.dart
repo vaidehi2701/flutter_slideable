@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                             padding: const EdgeInsets.only(top: 250),
                             child: Column(
                               children: <Widget>[
-                                Text('Welcome To The Studio',
+                                Text(' Coding With Flash',
                                 style: TextStyle(
                                   fontSize: 25,
                                   color: Colors.red[600],
@@ -61,7 +61,6 @@ class ProfileBanner extends StatelessWidget {
               color: Colors.grey[300], blurRadius: 6, offset: Offset(0, -2))
         ]),
         child: ListTile(
-
           leading: CircleAvatar(
             backgroundColor: Colors.red,
             child: Icon(
